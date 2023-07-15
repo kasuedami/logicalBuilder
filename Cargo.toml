@@ -11,3 +11,4 @@ egui-modal = "0.2.4"
 rfd = "0.11.4"
 ron = "0.8.0"
 serde = "1.0.171"
+logical = { git = "https://github.com/kasuedami/logical.git"}

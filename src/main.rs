@@ -14,7 +14,7 @@ fn main() -> Result<(), eframe::Error> {
         ..Default::default()
     };
     eframe::run_native(
-        "My egui App",
+        "Logical Builder",
         options,
         Box::new(|_cc| Box::<LogicalBuilder>::default()),
     )
